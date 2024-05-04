@@ -1,2 +1,2 @@
-# tests E2E & automatizado
-## estudo de test primeira fase 
+# Tests E2E & automatizado.
+## Estudo de test primeira fase .
