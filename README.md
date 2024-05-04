@@ -1,2 +1,2 @@
-# test tando E2E qunto automatizado
+# tests E2E & automatizado
 ## estudo de test primeira fase 
